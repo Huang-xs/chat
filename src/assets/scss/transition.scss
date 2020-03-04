@@ -1,0 +1,27 @@
+// 添加好友界面动画
+.showAnimate-enter {
+    transform: translateX(-100%);
+}
+
+.showAnimate-enter-active,
+.showAnimate-leave-active {
+    transition: all 0.5s linear;
+}
+
+.showAnimate-leave-to {
+    transform: translateX(-100%);
+}
+
+//显示表情列表 
+.show-biaoqing-enter {
+    transform: translateY(55%);
+}
+
+.show-biaoqing-enter-active,
+.show-biaoqing-leave-active {
+    transition: all 0.5s linear;
+}
+
+.show-biaoqing-leave-to {
+    transform: translateY(55%);
+}

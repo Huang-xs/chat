@@ -1,0 +1,13 @@
+export const TO_LOGIN = "TO_LOGIN";
+export const GET_FRIEND_LIST = "GET_FRIEND_LIST";
+export const SHOW_ADD = "SHOW_ADD";
+export const SHOW_APPLY = "SHOW_APPLY";
+export const GET_FRIEND_NAME = "GET_FRIEND_NAME";
+export const SET_MESSAGE_OF_USER_ID = "setMessageOfUserId";
+export const UPDATE_MESSAGE = "UPDATE_MESSAGE";
+export const GET_CHATROOM_LIST = "GET_SHATROOM_LIS";
+export const SET_PASS_USERNAME = "SET_PASS_USERNAME";
+// export const CHAT_MESSAGE = "CHAT_MESSAGE";
+export const GET_TEAM_GROUP = "GET_TEAM_GROUP";
+export const ADD_TEAM_APPLY_LIST = "ADD_TEAM_APPLY_LIST";
+export const CHANGE_APPLY_PAST = "CHANGE_APPLY_PAST";
